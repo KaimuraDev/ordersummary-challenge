@@ -40,8 +40,6 @@ Users should be able to:
 - Flexbox for positioning all components.
 - Media Queries to set breakpoints for different layouts.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ### Useful resources
 
 - [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A very practical guide for any eventuality that arises in positioning when using flexbox.
