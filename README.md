@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Order Summay Card](https://kaimuradev.github.io/ordersummary-challenge/)
+- Live Site URL: [Order Summary Card](https://kaimuradev.github.io/ordersummary-challenge/)
 
 ## My process
 
