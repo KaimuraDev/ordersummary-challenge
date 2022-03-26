@@ -152,14 +152,16 @@ body{
     color: hsl(228, 45%, 44%); 
 }
 
-@media (max-width: 576px){
+@media (max-width: 1440px){
     
     #card-container{
         width: 345px;
+        font-size: 0.9rem;
     }
     
     .payment-button input[type="button"]{
         width: 290px;
+        font-size: 0.9rem;
     }
 
 }
