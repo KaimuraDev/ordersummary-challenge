@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Order Summary Card](https://kaimuradev.github.io/ordersummary-challenge/)
+- Solution URL: [Solution - Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-card-css-and-flexbox-practice-SJwmS0oMc)
+- Live Site URL: [Live site - GitPages](https://kaimuradev.github.io/ordersummary-challenge/)
 
 ## My process
 
