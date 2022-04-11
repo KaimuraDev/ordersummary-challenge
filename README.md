@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution - Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-card-css-and-flexbox-practice-SJwmS0oMc)
+- Live Site URL: [Live site - GitPages](https://kaimuradev.github.io/ordersummary-challenge/)
 
 ## My process
 
@@ -39,8 +39,6 @@ Users should be able to:
 - Element styling with 'pure' CSS.
 - Flexbox for positioning all components.
 - Media Queries to set breakpoints for different layouts.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
